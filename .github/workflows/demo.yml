@@ -5,5 +5,5 @@ jobs:
   runs-on: ubuntu-latest
   steps:
       - name: Print to console
-        run: echo Hello GH action !
+        run: echo Hello GH action!
    
